@@ -26,7 +26,7 @@ body {
   width: 90%;
   z-index: 3;
   margin: 0 5% 0 5%;
-  background: rgb(70, 42, 0);
+  background: rgb(134, 81, 0);
   transform: translate(0, -50px);
 }
 .wrapper.active main .fake-page:nth-child(2) {
@@ -34,7 +34,7 @@ body {
   width: 80%;
   z-index: 2;
   margin: 0 10% 0 10%;
-  background: rgb(52, 31, 0);
+  background: rgb(90, 54, 0);
   transform: translate(0, -100px);
 }
 .wrapper.active main .fake-page:nth-child(3) {
@@ -42,7 +42,7 @@ body {
   width: 70%;
   z-index: 1;
   margin: 0 15% 0 15%;
-  background: rgb(43, 26, 0);
+  background: rgb(74, 43, 0);
   transform: translate(0, -150px);
 }
 .wrapper.active main .page {
@@ -54,8 +54,8 @@ body {
 }
 .wrapper .overview {
   position: absolute;
-  top: 2rem;
-  right: 1rem;
+  top: 4rem;
+  right: 4rem;
   background: transparent;
   border: none;
   z-index: 100;
