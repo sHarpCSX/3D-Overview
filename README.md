@@ -1,6 +1,6 @@
 # 3D-Overview
 
-a simple 3D overview
+a simple 3D overview by unleashed design. 
 
 ![](screenshots/pageview.PNG)
 
